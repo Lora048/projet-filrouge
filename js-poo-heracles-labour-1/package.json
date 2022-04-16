@@ -1,0 +1,20 @@
+{
+  "name": "js-poo-heracles-labour-1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Prerequisite: clone this _repository_.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildCodeSchool/js-poo-heracles-labour-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildCodeSchool/js-poo-heracles-labour-1/issues"
+  },
+  "homepage": "https://github.com/WildCodeSchool/js-poo-heracles-labour-1#readme"
+}
